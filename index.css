@@ -8,8 +8,8 @@ nav li {
 
 nav a{
     text-transform: uppercase;
-    color: yellow;
-    background-color: #0931d2;
+    color: rgb(255, 72, 0);
+    background-color: #cfd209;
 }
 
 .texto-principal {
@@ -17,11 +17,11 @@ nav a{
 }
 
 h1 {
-    color: #0931d2;
+    color: #09d224;
     text-align: center;
 }
 h2 {
-    color: rgb(65, 50, 234);
+    color: rgb(50, 234, 225);
 }
 p {
     color: blue;
@@ -30,13 +30,13 @@ p {
 #imagem-principal {
     width: 10%;
     margin-left: 80%;
-    border: 5px dotted salmon;
+    border: 5px dotted rgb(250, 114, 148);
     float: left;
     position: absolute;
 }
 
 .itens {
-    color:  #5F9EA0;
+    color:  #a05f5f;
     text-decoration: underline;
 }
 .texto-principal {
